@@ -1,2 +1,1 @@
-# first-repository
-add new contents
+#ROCK_SCISSOR_PAPER
